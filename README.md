@@ -11,26 +11,26 @@ Insurance operations often hide inefficiencies behind complex metrics — long a
 This project delivers a centralized, real-time dashboard that transforms raw transactional data into actionable intelligence, helping managers move from reactive reporting to proactive decision-making.
 
 ### Key Metrics Visualized
-Metric                      	          Description
-Total Applications	                    Tracks total application volume.
-Average Approval Days (75.81 days)	    Identifies key process bottlenecks.
-Total Insurance Coverage ($1 Billion)	  Offers an instant snapshot of risk exposure.
+    Metric                      	          Description
+    Total Applications	                    Tracks total application volume.
+    Average Approval Days (75.81 days)	    Identifies key process bottlenecks.
+    Total Insurance Coverage ($1 Billion)	  Offers an instant snapshot of risk exposure.
 
 
 ### Measurable Business Impact (The ROI)
 
 This dashboard goes beyond visualization — it’s a strategic decision tool that improved efficiency and revenue performance.
 
-Outcome Category          	Initial Problem Highlighted                          	Measured Result
-Operational Savings        	75.81-day approval time bottleneck identified.	  Cycle time reduced by 20%, saving approx. $150,000 annually.
-Strategic Growth	          Undefined focus on high-premium applications.	    10% growth in annual premiums from high-value segments.
-Risk Mitigation	            Lack of granular visibility into total exposure.	Enforced regional caps, preventing overexposure in key markets.
+    Outcome Category          	Initial Problem Highlighted                          	Measured Result
+    Operational Savings        	75.81-day approval time bottleneck identified.	  Cycle time reduced by 20%, saving approx. $150,000 annually.
+    Strategic Growth	          Undefined focus on high-premium applications.	    10% growth in annual premiums from high-value segments.
+    Risk Mitigation	            Lack of granular visibility into total exposure.	Enforced regional caps, preventing overexposure in key markets.
 
 ### Technology Stack
-Component	              Tool / Language	                            Purpose
-ETL & Modeling	        Power Query (M), Power BI Desktop	    Data transformation & star schema modeling
-Analysis	              DAX (Data Analysis Expressions)       Created dynamic measures & KPIs
-Visualization	          Power BI	                            Interactive dashboards, maps, and drill-throughs
+    Component	              Tool / Language	                            Purpose
+    ETL & Modeling	        Power Query (M), Power BI Desktop	    Data transformation & star schema modeling
+    Analysis	              DAX (Data Analysis Expressions)       Created dynamic measures & KPIs
+    Visualization	          Power BI	                            Interactive dashboards, maps, and drill-throughs
 
 
 ### Data Model & Architecture
@@ -66,7 +66,7 @@ Dimension Tables:
 
     Detail Table: Transaction-level premium and margin analysis
 
-(See dashboard screenshot below)
+![Insurance](https://github.com/adetonayusuf/insurance_application_dashboard/blob/main/Insurance%20Dashboard.png)
 
 
  • Portfolio
