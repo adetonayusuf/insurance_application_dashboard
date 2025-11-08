@@ -69,4 +69,17 @@ Dimension Tables:
 ![Insurance](https://github.com/adetonayusuf/insurance_application_dashboard/blob/main/Insurance%20Dashboard.png)
 
 
- • Portfolio
+## Contact
+
+Author: Yusuf Adetona
+
+Email: yustone003@yahoo.com
+
+LinkedIn: [Yusuf Adetona HND, BSc, AAT, ACA, ACCA(Dip IFRS)](https://www.linkedin.com/in/yusuf-adetona/)
+
+Portfolio: https://www.datascienceportfol.io/adetonayusuf
+
+
+#BIDA #CFI #PowerBI #FinancialStatementwithPowerBI
+
+
