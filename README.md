@@ -2,11 +2,11 @@
 
 ## Insurance Application Summary Dashboard
 
-A comprehensive Business Intelligence solution built in Power BI to monitor and optimize the insurance application pipeline — with a focus on operational speed, risk aggregation, and portfolio growth.
+A comprehensive Business Intelligence solution built in Power BI to monitor and optimize the insurance application pipeline, with a focus on operational speed, risk aggregation, and portfolio growth.
 
 ### Project Overview — From Chaos to Clarity
 
-Insurance operations often hide inefficiencies behind complex metrics — long approval times, undefined risk concentrations, and missed sales opportunities.
+Insurance operations often hide inefficiencies behind complex metrics, long approval times, undefined risk concentrations, and missed sales opportunities.
 
 This project delivers a centralized, real-time dashboard that transforms raw transactional data into actionable intelligence, helping managers move from reactive reporting to proactive decision-making.
 
@@ -19,7 +19,7 @@ This project delivers a centralized, real-time dashboard that transforms raw tra
 
 ### Measurable Business Impact (The ROI)
 
-This dashboard goes beyond visualization — it’s a strategic decision tool that improved efficiency and revenue performance.
+This dashboard goes beyond visualization, it’s a strategic decision tool that improved efficiency and revenue performance.
 
     Outcome Category          	Initial Problem Highlighted                          	Measured Result
     Operational Savings        	75.81-day approval time bottleneck identified.	  Cycle time reduced by 20%, saving approx. $150,000 annually.
